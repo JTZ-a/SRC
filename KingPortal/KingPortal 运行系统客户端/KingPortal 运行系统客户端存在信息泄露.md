@@ -17,10 +17,4 @@ http://ip//getProjectFile?projectInfo={%22name%22:%22externalconfig%22,%22type%2
 
 ![image-20240226194027202](./assets/image-20240226194027202.png)
 
-```
-示例
-http://36.108.172.248:15006/
-http://36.108.187.38:50000/
-http://123.57.46.107:10084/
-```
 
